@@ -1,0 +1,37 @@
+.list-group-item {
+  line-height: 2.5;
+}
+#me{
+  background-image: url("../images/me.jpg");
+  background-repeat: no-repeat
+}
+#irrig8{
+  background-image: url("../images/Irrig8.gif");
+  background-size: 100%;
+  background-repeat: no-repeat
+}
+#rps{
+  background-image: url("../images/Screenshot\ \(24\).png");
+  background-size: 100% 90%;
+  background-repeat: no-repeat;
+}
+#trivia{
+  background-image: url("../images/TrivaGame.png");
+  background-size: 100% 90%;
+  background-repeat: no-repeat;
+}
+#giphy{
+  background-image: url("../images/Screenshot\ \(23\).png");
+  background-size: 100% 90%;
+  background-repeat: no-repeat;
+}
+#burger{
+  background-image: url("../images/burger.png");
+  background-size: 100% 90%;
+  background-repeat: no-repeat;
+}
+#got{
+  background-image: url("../images/Screenshot\ \(20\).png");
+  background-size: 100% 90%;
+  background-repeat: no-repeat;
+}
