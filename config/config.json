@@ -4,7 +4,7 @@
     "password": "password",
     "database": "exampledb",
     "host": "localhost",
-    "dialect": "mysql2"
+    "dialect": "mysql"
   },
   "test": {
     "username": "root",
