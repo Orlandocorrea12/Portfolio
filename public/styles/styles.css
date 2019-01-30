@@ -3,7 +3,8 @@
 }
 #me{
   background-image: url("../images/me.jpg");
-  background-repeat: no-repeat
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 #irrig8{
   background-image: url("../images/Irrig8.gif");
@@ -34,4 +35,23 @@
   background-image: url("../images/Screenshot\ \(20\).png");
   background-size: 100% 90%;
   background-repeat: no-repeat;
+}
+.jumbotron{
+  background-image: url(../images/concrete_seamless.png)
+}
+body{
+  background-image: url(../images/concrete_seamless.png)
+}
+.lead{
+  font-size: 1.5rem;
+}
+.pic{
+  height: 255px; 
+  width: 400px;
+}
+@media only screen and (max-width: 993px){
+  .pic{
+    height: 255px; 
+    width: 255px;
+  }
 }
